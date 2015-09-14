@@ -15,6 +15,9 @@
     },
     "Natura TE4 Compatibility": {
       "enabled": true
+    },
+    "Natura Thaumcraft Compatibility": {
+      "enabled": true
     }
   }
 }
