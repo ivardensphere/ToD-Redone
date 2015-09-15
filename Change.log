@@ -113,6 +113,7 @@ Changed: TwilightForest: B:DisableUncrafting=true (was false)
 Changed: Witchery: B:AllowModMineFactoryReloaded=false (was true)
 Changed: Witchery: B:AllowModMystcraft=false (was true)
 Changed: Witchery: B:AllowModTreecapitator=false (was true)
+Changed: BiomesOPlenty: B:"Only Spawn On Beaches"=false (was true)
 
 Added 9/14:
 Updated: Automagy-1.7.10-0.26.3
